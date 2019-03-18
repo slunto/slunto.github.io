@@ -1,0 +1,41 @@
+# Site
+name: "sawahlunto"
+description: "all about sawahlunto"
+meta_description: "sawahlunto"
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/logo.png'
+baseurl: /
+google_analytics: 'UA-27204218-1'
+disqus: 'sawahlunto'
+mailchimp-list: 'https://sawahlunto.us19.list-manage.com/subscribe/post?u=7d110608bb02e19b01f1b068b&amp;id=f410639a35'
+
+# Authors
+authors:
+  admin:
+    name: admin
+    display_name: admin
+    gravatar: sawahlunto
+    email: admin@sawahlunto.xyz
+    web: https://sawahlunto.xyz
+    twitter: https://twitter.com/sawahlunto
+
+# Plugins
+plugins: 
+  - jekyll-paginate
+  - jekyll-archives
+    
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Pagination 
+paginate: 6
+paginate_path: /page:num/
+    
+# Other
+markdown: kramdown
+highlighter: rouge
