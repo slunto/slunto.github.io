@@ -39,3 +39,5 @@ paginate_path: /page:num/
 # Other
 markdown: kramdown
 highlighter: rouge
+permalinks: /:year/:month/:day/:title:output_ext
+
