@@ -1,1 +1,1 @@
-# slunto.github.io
+https://sawahlunto.xyz

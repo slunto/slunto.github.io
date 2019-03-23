@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Free Email"
+title: "Free Email"
 author: admin
-categories: [ news, berita ]
+categories: [ news ]
 featured: false
 hidden: false
 ---
