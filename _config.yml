@@ -29,7 +29,7 @@ jekyll-archives:
   enabled:
     - categories
   layout: archive
-  permalinks: /:year/:month/:day/:title:output_ext
+  permalinks:
     category: '/category/:name/'
     
 # Pagination 
@@ -39,4 +39,3 @@ paginate_path: /page:num/
 # Other
 markdown: kramdown
 highlighter: rouge
-
