@@ -2,7 +2,7 @@
 layout: post
 title: "Free Email"
 author: admin
-categories: [ news ]
+categories: news
 featured: false
 hidden: false
 ---

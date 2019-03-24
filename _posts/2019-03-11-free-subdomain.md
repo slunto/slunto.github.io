@@ -2,7 +2,7 @@
 layout: post
 title: "Free Subdomain" 
 author: admin
-categories: [ news ]
+categories: news
 image: "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png"
 featured: false
 ---

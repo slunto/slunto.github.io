@@ -2,7 +2,7 @@
 layout: post
 title: "Welcome to sawahlunto.xyz"
 author: admin
-categories: [ news ]
+categories: news
 featured: true
 hidden: true
 ---
