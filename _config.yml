@@ -19,7 +19,7 @@ authors:
     web: https://sawahlunto.xyz
     twitter: https://twitter.com/sawahlunto
 
-permalink: /:year/:month/:day/:title.html
+permalink: /:year/:title.html
 
 # Plugins
 plugins: 
