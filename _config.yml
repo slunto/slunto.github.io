@@ -19,6 +19,8 @@ authors:
     web: https://sawahlunto.xyz
     twitter: https://twitter.com/sawahlunto
 
+permalink: /:year/:month/:day/:title.html
+
 # Plugins
 plugins: 
   - jekyll-paginate
